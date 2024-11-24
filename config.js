@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Bilibili',
 			icon: 'youtube',
 			link: 'https://www.bilibili.com/,
 		},
