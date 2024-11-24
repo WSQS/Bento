@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Z-Library',
-			icon: 'trello',
+			icon: 'book',
 			link: 'https://z-library.sk',
 		},
 		{
