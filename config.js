@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Z-Library',
-			icon: 'trello',
+			icon: 'book',
 			link: 'https://z-library.sk',
 		},
 		{
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Bilibili',
 			icon: 'youtube',
-			link: 'https://www.bilibili.com/,
+			link: 'https://www.bilibili.com/',
 		},
 	],
 
